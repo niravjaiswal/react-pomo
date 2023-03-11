@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+
+  main{
+    padding-top: 50px;
+    max-width: 340px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+.pomo-timer {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    width: 400px;
+    background: #FFFFFF;
+    text-align: center;
+    margin: 128px auto;
+    border-radius: 10px;
+    padding: 32px;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.35);
+}
+
+button{
+    background-color: transparent;
+    color: #ff7e26; 
+    border:0;
+    display: inline-block;
+    width: 100px;
+    cursor: pointer;
+  }
+
+label{
+    display:block;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
