@@ -1,1 +1,1 @@
-Simple react pomodoro tinmer web app
+Simple react pomodoro timer web app
